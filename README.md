@@ -1,5 +1,8 @@
 ## Notes
 
+Recreated the final project from John's Smilga course using Redux Toolkit instead of React Context.
+The course can be found here: https://www.udemy.com/course/react-tutorial-and-projects-course/
+
 #### Older React Version
 
 ```
